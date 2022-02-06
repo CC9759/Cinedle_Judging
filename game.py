@@ -2,7 +2,7 @@
 file name: game.py
 description: movie wordle discord bot
 language: python3
-author: Samson Zhang | sz7651@rit.edu, Celina Chen
+author: Samson Zhang | sz7651@rit.edu, Celina Chen, Jacob Swihart, and Rahul Raiyani
 """
 
 import os
